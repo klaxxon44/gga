@@ -1,0 +1,55 @@
+body {
+	background-color: black;
+	padding: 0px;
+	margin: 0px;
+}
+
+header {
+	height: 40px;
+	background-image: url("images.jpg");
+	padding-top: 0px;
+	text-align: center;
+}
+
+nav {
+	display: flex;
+	justify-content: space-around;
+	padding-top: 10px;
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+
+header h1 {
+	text-align: center;
+	margin-top: 0px;
+	color:white;
+	padding-left: 0px;
+	padding-top:;
+}
+
+main {
+	border-top: 1px solid white;
+}
+
+main h1 {
+	color: white;
+	text-align: center;
+}
+
+main h3 {
+	color: white;
+}
+
+main img {
+	width: 622px;
+	height: 418px;
+	display: flex;
+}
+
+.ggg7 {
+	margin-left: 100px;
+}

@@ -1,0 +1,56 @@
+header {
+	height: 40px;
+	background-image: url("images.jpg");
+	padding-top: 0px;
+	text-align: center;
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+
+nav {
+	display: flex;
+	justify-content: space-around;
+	padding-top: 10px;
+}
+
+header h1 {
+	text-align: center;
+	margin-top: 0px;
+	color:white;
+	padding-left: 0px;
+	padding-top:;
+}
+
+body {
+	background-color: black;
+	padding: 0px;
+	margin: 0px;
+}
+
+main {
+	border-top: 1px solid white;
+}
+
+main img {
+	width: 640px;
+	height:425px ;
+	display: flex;
+}
+
+main h1 {
+	text-align: center;
+	color: white;
+}
+
+.usf {
+	diplay: flex;
+}
+
+main p {
+	color: white;
+	display: flex;
+}
